@@ -71,6 +71,7 @@
 		225B36891F6EBA640005B3D5 /* ScatterChartViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BEAED171ABBFB340013F194 /* ScatterChartViewController.xib */; };
 		225B368A1F6EBA640005B3D5 /* SinusBarChartViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BEAED3F1ABC1AC60013F194 /* SinusBarChartViewController.xib */; };
 		225B368B1F6EBA640005B3D5 /* StackedBarChartViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BEAED1A1ABBFB340013F194 /* StackedBarChartViewController.xib */; };
+		3630B2C92AE4BF6E0034AE6E /* CombinedTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3630B2C82AE4BF6E0034AE6E /* CombinedTestViewController.swift */; };
 		55E356501ADC638F00A57971 /* BubbleChartViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55E3564D1ADC638F00A57971 /* BubbleChartViewController.xib */; };
 		55E356511ADC638F00A57971 /* BubbleChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55E3564F1ADC638F00A57971 /* BubbleChartViewController.m */; };
 		5B0CC7851ABB875400665592 /* PieChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B0CC7831ABB875400665592 /* PieChartViewController.m */; };
@@ -228,6 +229,7 @@
 		225B36581F6EBA410005B3D5 /* BarChartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarChartViewController.swift; sourceTree = "<group>"; };
 		225B36591F6EBA410005B3D5 /* SinusBarChartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SinusBarChartViewController.swift; sourceTree = "<group>"; };
 		225B365A1F6EBA410005B3D5 /* CandleStickChartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandleStickChartViewController.swift; sourceTree = "<group>"; };
+		3630B2C82AE4BF6E0034AE6E /* CombinedTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinedTestViewController.swift; sourceTree = "<group>"; };
 		55E3564D1ADC638F00A57971 /* BubbleChartViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BubbleChartViewController.xib; sourceTree = "<group>"; };
 		55E3564E1ADC638F00A57971 /* BubbleChartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BubbleChartViewController.h; sourceTree = "<group>"; };
 		55E3564F1ADC638F00A57971 /* BubbleChartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BubbleChartViewController.m; sourceTree = "<group>"; };
@@ -396,6 +398,7 @@
 				225B36461F6EBA410005B3D5 /* HalfPieChartViewController.swift */,
 				225B36551F6EBA410005B3D5 /* HorizontalBarChartViewController.swift */,
 				225B364A1F6EBA410005B3D5 /* LineChart1ViewController.swift */,
+				3630B2C82AE4BF6E0034AE6E /* CombinedTestViewController.swift */,
 				225B36491F6EBA410005B3D5 /* LineChart2ViewController.swift */,
 				225B364F1F6EBA410005B3D5 /* LineChartFilledViewController.swift */,
 				225B36471F6EBA410005B3D5 /* LineChartTimeViewController.swift */,
@@ -783,6 +786,7 @@
 			files = (
 				225B365E1F6EBA470005B3D5 /* LineChartTimeViewController.swift in Sources */,
 				225B36311F6EB9EE0005B3D5 /* DemoBaseViewController.swift in Sources */,
+				3630B2C92AE4BF6E0034AE6E /* CombinedTestViewController.swift in Sources */,
 				225B36391F6EBA040005B3D5 /* DayAxisValueFormatter.swift in Sources */,
 				225B36661F6EBA470005B3D5 /* LineChartFilledViewController.swift in Sources */,
 				225B366A1F6EBA470005B3D5 /* CubicLineChartViewController.swift in Sources */,
